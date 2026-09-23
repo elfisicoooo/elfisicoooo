@@ -1,5 +1,7 @@
 # Olá a todos! 👋
 
+Estudante de Ciência da Computação interessado em programação competitiva.
+
 Meu nome é Thiago Viana (mas também me chamam de ElFísico), sou um estudante fascinado por matemática e programação! No momento estou no **9º ano do Ensino Fundamental** em uma escola estadual de São Paulo! 😁
 
 Falando em matemática, sou apaixonado pela OBMEP, essa olimpíada já me proporcionou amizades, viagens, desafios, alegria, desespero... Desde 2024 participo do **Programa de Iniciação Científica da OBMEP**, e cada vez mais aprendo sobre a "Rainha das Ciências". 
