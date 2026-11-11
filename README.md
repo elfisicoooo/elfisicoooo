@@ -12,7 +12,7 @@ Na universidade desejo fazer **Ciência da Computação** e futuramente trabalha
 
 - [Jogos de Nim](https://github.com/elfisicoooo/jogos-de-nim): jogo interativo entre dois jogadores, que revezam tirando 1 ou 2 peças de pilhas, perdendo quem não puder mais tirar peças. Detecta vitórias e permite aos usuários jogarem mais vezes. Feito em C++.
 
-- [Calculadora do amor](https://github.com/elfisicoooo/calculadora-do-amor): um programa em C++ que, dados dois nomes, calcula a probabilidade das duas pessoas ficarem juntas. O programa se encerra apenas quando o usuário indicar que quer encerrar ele.
+- [Calculadora do amor](https://github.com/elfisicoooo/calculadora-do-amor): um programa em C++ que, dados dois nomes, calcula uma probabilidade fictícia das duas pessoas ficarem juntas. O programa se encerra apenas quando o usuário indicar que quer encerrar ele.
   
 - [Temporadas de Chiquititas](https://github.com/elfisicoooo/temporadas-chiquititas): Site estático feito com HTML e CSS que informa sobre as temporadas da telenovela Chiquititas (1997).
 ## Tecnologias 🛠️
