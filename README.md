@@ -6,6 +6,8 @@ Falando em matemática, sou apaixonado pela OBMEP, essa olimpíada já me propor
 
 Na universidade desejo fazer **Ciência da Computação** e futuramente trabalhar como programador. Tenho experiência com as linguagens de programação: **Python, C e C++**.
 
+[![Status do Github](https://github-stats-extended.vercel.app/api/top-langs?username=elfisicoooo&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=elfisicoooo&layout=compact&langs_count=6&theme=radical)
+
 ## Projetos 👨🏻‍💻
 
 - [Jogo da velha](https://github.com/elfisicoooo/jogo-da-velha): jogo interativo entre dois jogadores. Detecta vitórias e empates e permite aos usuários jogarem mais vezes, sem a necessidade de rodar novamente o programa. Feito em C++.
@@ -27,4 +29,4 @@ Caso queira entrar em contato...
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.elfisicomat@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elfisicomat) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1478450161243000915)
 
-```Última atualização: 11 de novembro de 2026```
+```Última atualização: 23 de novembro de 2026```
