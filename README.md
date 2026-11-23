@@ -19,7 +19,7 @@ Na universidade desejo fazer **Ciência da Computação** e futuramente trabalha
 - [Temporadas de Chiquititas](https://github.com/elfisicoooo/temporadas-chiquititas): Site estático feito com HTML e CSS que informa sobre as temporadas da telenovela Chiquititas (1997).
 ## Tecnologias 🛠️
 
-Coisinhas que estudo...
+Tenho experiência em...
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
